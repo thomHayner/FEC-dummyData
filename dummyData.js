@@ -12,7 +12,7 @@ const data = [
                 "value": "Brass"
             }
         ],
-        "results": [
+        "styles": [
             {
                 "style_id": 1,
                 "name": "Forest Green & Black",
@@ -281,7 +281,7 @@ const data = [
                 "value": "LightCompose"
             }
         ],
-        "results": [
+        "styles": [
             {
                 "style_id": 7,
                 "name": "Black Lenses & Black Frame",
@@ -365,7 +365,7 @@ const data = [
                 "value": "Skinny"
             }
         ],
-        "results": [
+        "styles": [
             {
                 "style_id": 11,
                 "name": "Black",
@@ -627,7 +627,7 @@ const data = [
                 "value": "Loose"
             }
         ],
-        "results": [
+        "styles": [
             {
                 "style_id": 17,
                 "name": "Black",
@@ -1024,7 +1024,7 @@ const data = [
                 "value": "Double Stitch"
             }
         ],
-        "results": [
+        "styles": [
             {
                 "style_id": 26,
                 "name": "White & White",
